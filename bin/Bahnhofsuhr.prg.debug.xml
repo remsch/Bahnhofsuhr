@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrBackground.mc" lineNum="7" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrBackground.mc" lineNum="8" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrBackground.mc" lineNum="12" pc="268435481" symbol="initialize"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrBackground.mc" lineNum="15" pc="268435502" symbol="draw"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrBackground.mc" lineNum="17" pc="268435506" symbol="draw"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrBackground.mc" lineNum="18" pc="268435559" symbol="draw"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrApp.mc" lineNum="6" pc="268435572" symbol="initialize"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrApp.mc" lineNum="7" pc="268435576" symbol="initialize"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrApp.mc" lineNum="11" pc="268435595" symbol="onStart"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrApp.mc" lineNum="15" pc="268435600" symbol="onStop"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrApp.mc" lineNum="19" pc="268435605" symbol="getInitialView"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrApp.mc" lineNum="20" pc="268435609" symbol="getInitialView"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrApp.mc" lineNum="24" pc="268435647" symbol="onSettingsChanged"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrApp.mc" lineNum="25" pc="268435651" symbol="onSettingsChanged"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="13" pc="268435668" symbol="rotatePoint"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="15" pc="268435672" symbol="rotatePoint"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="16" pc="268435697" symbol="rotatePoint"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="17" pc="268435718" symbol="rotatePoint"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="18" pc="268435739" symbol="rotatePoint"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="19" pc="268435758" symbol="rotatePoint"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="21" pc="268435777" symbol="rotatePoint"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="25" pc="268435841" symbol="initialize"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="26" pc="268435845" symbol="initialize"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="30" pc="268435864" symbol="onLayout"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="31" pc="268435868" symbol="onLayout"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="37" pc="268435906" symbol="onShow"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="41" pc="268435911" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="44" pc="268435915" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="48" pc="268435972" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="49" pc="268435989" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="50" pc="268435999" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="51" pc="268436009" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="52" pc="268436034" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="53" pc="268436045" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="65" pc="268436061" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="66" pc="268436080" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="67" pc="268436090" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="68" pc="268436130" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="75" pc="268436488" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="82" pc="268436846" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="83" pc="268436857" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="84" pc="268436867" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="86" pc="268436877" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="88" pc="268436911" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="89" pc="268436990" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="91" pc="268437023" symbol="onUpdate"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="104" pc="268437385" symbol="onHide"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="108" pc="268437390" symbol="onExitSleep"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="110" pc="268437394" symbol="onExitSleep"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="115" pc="268437405" symbol="onEnterSleep"/>
+<entry filename="/Users/remo/eclipse-workspace/Bahnhofsuhr/./source/BahnhofsuhrView.mc" lineNum="117" pc="268437409" symbol="onEnterSleep"/>
+<entry filename="Rez" lineNum="29" pc="268437420" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268437432" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268437456" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="35" pc="268437619" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268437644" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268437696" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="40" pc="268437742" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="20" symbol="ColorBlue"/>
+<entry id="13" method="true" symbol="rotatePoint"/>
+<entry field="true" id="17" symbol="UhrTarget"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="27" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="10" object="true" symbol="BahnhofsuhrView"/>
+<entry field="true" id="26" symbol="ColorBlack"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="16" symbol="UhrBackground"/>
+<entry field="true" id="21" symbol="ColorRed"/>
+<entry field="true" id="22" symbol="ForegroundColorTitle"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="28" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="24" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="19" symbol="ColorLightGray"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="11" symbol="isAwake"/>
+<entry field="true" id="23" symbol="BackgroundColorTitle"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry field="true" id="12" symbol="handRed"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="25" symbol="MilitaryFormatTitle"/>
+<entry id="9" object="true" symbol="BahnhofsuhrApp"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
+<entry endPc="268435572" name="dc" stackId="1" startPc="268435502"/>
+<entry endPc="268435600" name="state" stackId="1" startPc="268435595"/>
+<entry endPc="268435605" name="state" stackId="1" startPc="268435600"/>
+<entry endPc="268435840" name="dY" stackId="8" startPc="268435672"/>
+<entry endPc="268435840" name="dX" stackId="7" startPc="268435672"/>
+<entry endPc="268435840" name="sin" stackId="6" startPc="268435672"/>
+<entry endPc="268435840" name="cos" stackId="5" startPc="268435672"/>
+<entry endPc="268435840" name="radians" stackId="4" startPc="268435672"/>
+<entry endPc="268435841" name="point" stackId="2" startPc="268435668"/>
+<entry endPc="268435841" name="origin" stackId="1" startPc="268435668"/>
+<entry endPc="268435841" name="angle" stackId="3" startPc="268435668"/>
+<entry endPc="268435906" name="dc" stackId="1" startPc="268435864"/>
+<entry endPc="268437381" name="angleSec" stackId="8" startPc="268436857"/>
+<entry endPc="268437381" name="circlePoints" stackId="9" startPc="268436857"/>
+<entry endPc="268437381" name="seconds" stackId="7" startPc="268436857"/>
+<entry endPc="268437384" name="angleMin" stackId="6" startPc="268435915"/>
+<entry endPc="268437384" name="hours" stackId="4" startPc="268435915"/>
+<entry endPc="268437384" name="minutes" stackId="3" startPc="268435915"/>
+<entry endPc="268437384" name="clockTime" stackId="2" startPc="268435915"/>
+<entry endPc="268437384" name="angleHr" stackId="5" startPc="268435915"/>
+<entry endPc="268437385" name="dc" stackId="1" startPc="268435911"/>
+<entry endPc="268437769" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268437432"/>
+<entry endPc="268437769" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268437432"/>
+<entry endPc="268437769" name="rez_cmp_local_custom_drawable_VYB0HV1V6RURF4G9ZKIR" stackId="2" startPc="268437432"/>
+<entry endPc="268437770" name="dc" stackId="1" startPc="268437420"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BahnhofsuhrApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="BahnhofsuhrApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="BahnhofsuhrApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="BahnhofsuhrApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="BahnhofsuhrApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="rotatePoint" parent="BahnhofsuhrView">
+<param id="origin"/>
+<param id="point"/>
+<param id="angle"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BahnhofsuhrView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="BahnhofsuhrView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="BahnhofsuhrView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="BahnhofsuhrView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="BahnhofsuhrView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="BahnhofsuhrView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="BahnhofsuhrView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="BahnhofsuhrView" type="class"/>
+<dataEntry offset="356" parentId="globals" symbolId="BahnhofsuhrApp" type="class"/>
+<dataEntry offset="435" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="514" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="569" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="600" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="631" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="662" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="701" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+</debugInfo>
